@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "155013823939",
+    "project_id": "testlogingg44",
+    "storage_bucket": "testlogingg44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155013823939:android:56ce815e22f00baf311176",
+        "android_client_info": {
+          "package_name": "com.kdr.TestLoginGG44"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155013823939-s8bjariuvgtapo4easjarpqovlmn1fsq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kdr.TestLoginGG44",
+            "certificate_hash": "e3d6eecdb8306f336fc3954b959a59832be8ca82"
+          }
+        },
+        {
+          "client_id": "155013823939-a3un8lk3f075gb12qpql12ph3s3g2hcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBffUJzo8W8iTbDu8dAhEu1yPDrNXemNMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155013823939-a3un8lk3f075gb12qpql12ph3s3g2hcd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155013823939-ts5jn3nrn18q5u3m7c7uk8mgcpoukcms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kdr.TestLoginGG44"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
